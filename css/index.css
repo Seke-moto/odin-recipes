@@ -4,3 +4,28 @@
     margin-right: auto;
     width: 1000px;
 }
+
+#header {
+    font-family: monospace;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+    height: 200px;
+}
+
+ul {
+    display: inline-block;
+    color: white;
+    height: 200px;
+}
+
+a {
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+}

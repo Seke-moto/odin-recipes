@@ -14,13 +14,11 @@
 
 div.container {
     text-align: center;
-    height: 200px;
 }
 
 ul {
     display: inline-block;
     color: white;
-    height: 200px;
 }
 
 a {

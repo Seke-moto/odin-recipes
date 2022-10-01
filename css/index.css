@@ -13,7 +13,10 @@
 }
 
 div.container {
-    text-align: center;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
 }
 
 ul {

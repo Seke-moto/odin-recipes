@@ -1,0 +1,46 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+#header {
+    text-align: center;
+    font-size: 48px;
+    font-family: monospace;
+    color: white;
+}
+p {
+    text-align: center;
+    font-size: 24px;
+    font-family: monospace;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    color: white;
+}
+
+div.container {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+ul {
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+}
+/* display inline block needed to make bullet points line up*/
+
+ol {
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+}

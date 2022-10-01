@@ -16,11 +16,13 @@ p {
     text-align: center;
     color: white;
     font-size: 24px;
+    font-family: monospace;
 }
 h3 {
     text-align: center;
     color: white;
     font-size: 40px;
+    font-family: monospace;
 }
 
 div.container {
@@ -34,8 +36,12 @@ div.container {
 ul {
     color: white;
     display: inline-block;
+    font-size: 20px;
+    font-family: monospace;
 }
 
 ol {
     color: white;
+    font-size: 20px;
+    font-family: monospace;
 }
